@@ -1,0 +1,44 @@
+.opening_hours_container {
+  background-color: #0000008f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 40px 0;
+}
+.opening_hours_list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.opening_hours_list_item {
+  text-align: center;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  width: 200px;
+}
+.dashes_line_color {
+  color: var(--accent-color);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 690px) {
+  .opening_hours_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .opening_hours_list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 15px;
+    justify-content: center;
+  }
+  .opening_hours_list_item {
+    width: fit-content;
+  }
+}

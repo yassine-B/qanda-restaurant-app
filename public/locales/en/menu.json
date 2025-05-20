@@ -1,0 +1,44 @@
+{
+  "menu": {
+    "title": "Explore The Menu",
+    "description": "Explore our diverse menu offerings, from appetizers to desserts, with tantalizing descriptions and mouthwatering photos.",
+    "menu_items": {
+      "menu_1": {
+        "title": "Gourmet Pizza",
+        "description": "A crispy thin crust topped with fresh mozzarella, cherry tomatoes, basil leaves, and a drizzle of balsamic glaze. A perfect harmony of flavors."
+      },
+      "menu_2": {
+        "title": "Sushi Platter",
+        "description": "Vibrant and colorful sushi rolls with fresh fish, avocado, cucumber, and tobiko. A delightful experience for sushi lovers."
+      },
+      "menu_3": {
+        "title": "Braised Short Ribs",
+        "description": "Tender short ribs braised in rich red wine sauce, served with creamy mashed potatoes and roasted carrots. Comfort food at its best."
+      },
+      "menu_4": {
+        "title": "Chocolate Lava Cake",
+        "description": "A decadent chocolate cake with warm molten chocolate, served with vanilla ice cream and fresh berries. Pure indulgence."
+      },
+      "menu_5": {
+        "title": "Mango Tango Salad",
+        "description": "A refreshing salad with ripe mango, mixed greens, grilled chicken, and tangy mango vinaigrette. A burst of flavors."
+      },
+      "menu_6": {
+        "title": "Crispy Calamari",
+        "description": "Lightly breaded and fried calamari rings served with zesty marinara sauce and lemon wedges. Perfectly crispy and delicious."
+      },
+      "menu_7": {
+        "title": "Grilled Salmon Steak",
+        "description": "Perfectly grilled salmon steak, seasoned and served with garlic mashed potatoes and sautéed vegetables. A savory delight."
+      },
+      "menu_8": {
+        "title": "Truffle Risotto",
+        "description": "Creamy risotto infused with truffle, topped with parmesan cheese and fresh herbs. A luxurious dining experience."
+      },
+      "menu_9": {
+        "title": "Prime Ribeye Steak",
+        "description": "Juicy prime ribeye steak, grilled to preference, with roasted potatoes, grilled asparagus, and red wine reduction sauce. Steak perfection."
+      }
+    }
+  }
+}

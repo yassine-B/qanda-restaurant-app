@@ -1,0 +1,27 @@
+{
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a question or want to make a reservation? Don't hesitate to reach out to us. Our team is here to assist you with any inquiries you may have.",
+    "information_title": "Reservation Information",
+    "form_title": "Leave a Message",
+    "form_button": "send message",
+    "feedback_form": {
+      "fullname": {
+        "placeholder": "Full Name",
+        "error_message": "Please enter your full name."
+      },
+      "email": {
+        "placeholder": "Email",
+        "error_message": "Please enter a valid email address."
+      },
+      "phone": {
+        "placeholder": "Phone",
+        "error_message": "Please enter a valid phone number."
+      },
+      "message": {
+        "placeholder": "Share your thoughts...",
+        "error_message": "Please enter your message."
+      }
+    }
+  }
+}

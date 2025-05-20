@@ -1,0 +1,15 @@
+.overlay {
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  background: #00000045;
+  opacity: 1;
+  transition: opacity ease-in 200ms;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity ease-out 200ms;
+}

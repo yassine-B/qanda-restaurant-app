@@ -1,0 +1,134 @@
+.header {
+  background: var(--secondary-color);
+  color: white;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  position: fixed;
+  z-index: 1000;
+}
+.logo {
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  width: fit-content;
+}
+.logo_first_letter {
+  color: var(--accent-color);
+}
+.navigation {
+  width: fit-content;
+}
+.navigation_list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+.navigation_list_item {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+  display: block;
+}
+.navigation_list_item:hover {
+  background: darkgray;
+  border-radius: 5px;
+}
+.active_navigation_item {
+  background: var(--accent-color);
+  border-radius: 5px;
+}
+.header_list_item_theme {
+  display: flex;
+  align-items: center;
+  padding: 0 5px;
+}
+.mobile_header_icons {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.mobile_menu_button {
+  padding: 4px 4px 0;
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.mobile_header_sidebar {
+  height: 100%;
+  width: 70%;
+  position: fixed;
+  z-index: 4;
+  background: var(--secondary-color);
+  transition: transform ease-in-out 200ms;
+}
+.show_mobile_header_sidebar {
+  transform: translateX(0);
+}
+.hide_mobile_header_sidebar {
+  transform: translateX(-100%);
+}
+
+@media only screen and (min-width: 950px) and (max-width: 1050px) {
+  .header {
+    justify-content: space-between;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 950px) {
+  .header {
+    justify-content: space-evenly;
+    padding: 10px;
+  }
+  .navigation {
+    width: 60%;
+  }
+  .navigation_list {
+    flex-wrap: wrap;
+  }
+  .navigation_list_item {
+    padding: 5px;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 769px) {
+  .sidebar_logo {
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 100%;
+    border-bottom: 1px solid;
+  }
+  .navigation_list {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 10px;
+  }
+  .navigation_list_item {
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    width: 140px;
+    align-items: center;
+  }
+  .mobile_header_sidebar {
+    width: 40%;
+  }
+}
+@media only screen and (min-width: 500px) and (max-width: 600px) {
+  .mobile_header_sidebar {
+    width: 50%;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 500px) {
+  .mobile_header_sidebar {
+    width: 70%;
+  }
+}

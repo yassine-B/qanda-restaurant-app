@@ -1,0 +1,83 @@
+.about_grid {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 0.5fr 1fr;
+  margin: 50px auto auto;
+  width: 75%;
+  align-items: end;
+}
+.about_image_container {
+  width: 100%;
+  height: fit-content;
+}
+.about_description {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.about_description_container {
+  width: 80%;
+  margin: auto 0;
+}
+
+@media only screen and (min-width: 850px) and (max-width: 1190px) {
+  .about_grid {
+    width: 85%;
+  }
+  .about_description_container {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+@media only screen and (min-width: 930px) and (max-width: 980px) {
+  .about_grid {
+    width: 90%;
+  }
+  .about_description_container {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 880px) and (max-width: 930px) {
+  .about_grid {
+    width: 95%;
+  }
+  .about_description_container {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 850px) and (max-width: 880px) {
+  .about_grid {
+    width: 95%;
+  }
+  .about_description_container {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+@media only screen and (min-width: 780px) and (max-width: 850px) {
+  .about_grid {
+    width: 100%;
+    margin: 50px auto auto;
+  }
+
+  .about_description_container {
+    width: 95%;
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .about_grid {
+    display: block;
+    grid-gap: 0px;
+    grid-template-columns: 1fr;
+    width: 95%;
+    margin: 30px auto;
+  }
+  .about_description_container {
+    width: 100%;
+  }
+  .about_image_container {
+    display: none;
+  }
+}

@@ -1,0 +1,29 @@
+.testimonial_container {
+  padding: 20px;
+  background: var(--primary-color);
+}
+
+.testimonial {
+  padding: 20px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  width: 280px;
+  max-width: 300px;
+  margin: 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: var(--secondary-color);
+  cursor: grab;
+}
+
+.testimonial_image_container {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 10px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.testimonial_title {
+  margin: 10px 0;
+}

@@ -1,0 +1,34 @@
+{
+  "testimonial_title": "Customer feedback",
+  "testimonial_description": "See what our customers are saying about their experience with us.",
+  "testimonial_list": {
+    "testimonial_1": {
+      "username": "John Smith",
+      "comment": "The food was delicious and the service was impeccable. We will definitely be back!"
+    },
+    "testimonial_2": {
+      "username": "Emily Brown",
+      "comment": "Warm atmosphere and delicious dishes. A true pleasure with every visit."
+    },
+    "testimonial_3": {
+      "username": "Michael Johnson",
+      "comment": "Excellent value for money. I highly recommend this restaurant."
+    },
+    "testimonial_4": {
+      "username": "Sarah Davis",
+      "comment": "Attentive service and perfectly prepared dishes. An exceptional culinary experience."
+    },
+    "testimonial_5": {
+      "username": "David Wilson",
+      "comment": "Generous portions and beautifully presented dishes. A place worth remembering."
+    },
+    "testimonial_6": {
+      "username": "Jessica Taylor",
+      "comment": "Pleasant ambiance and friendly staff. Perfect for a night out with friends."
+    },
+    "testimonial_7": {
+      "username": "Sophie Anderson",
+      "comment": "I was impressed by the variety of vegetarian options. A real treat for vegetarians!"
+    }
+  }
+}

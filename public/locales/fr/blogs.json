@@ -1,0 +1,23 @@
+{
+  "blogs": {
+    "title": "Explorez Nos Aventures Culinaires",
+    "description": "Plongez dans notre blog pour découvrir les dernières tendances culinaires, les recettes de nos chefs et les histoires des coulisses de notre cuisine. Inspirez-vous et restez connectés avec l'univers de la gastronomie chez Qanda.",
+    "blogs_list": {
+      "blog_1": {
+        "title": "L'Art De Faire Des Pâtes",
+        "description": "Découvrez les secrets pour réaliser des pâtes parfaites de A à Z avec les conseils de nos chefs experts. Du choix de la bonne farine à la maîtrise des différentes formes de pâtes, sublimer vos plats de pâtes avec notre guide étape par étape.",
+        "button": "Lire la Suite"
+      },
+      "blog_2": {
+        "title": "Le Voyage D'un Chef",
+        "description": "Suivez le voyage de notre chef alors qu'ils sourcent les ingrédients locaux les plus frais et les transforment en plats savoureux. Découvrez l'importance des pratiques agricoles durables et comment elles influencent les saveurs dans votre assiette.",
+        "button": "Lire la Suite"
+      },
+      "blog_3": {
+        "title": "Créations Sucrées",
+        "description": "Satisfaites votre dent sucrée avec notre masterclass de desserts, où nous dévoilons les recettes derrière nos douceurs les plus populaires. Des gâteaux classiques aux desserts innovants, apprenez à créer des délices délectables qui impressionneront vos convives.",
+        "button": "Lire la Suite"
+      }
+    }
+  }
+}

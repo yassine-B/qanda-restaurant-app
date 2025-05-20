@@ -1,0 +1,23 @@
+{
+  "offers": {
+    "title": "Offre Spéciale du Jour",
+    "description": "Offrez-vous quelque chose d'extraordinaire avec nos offres exclusives, disponibles seulement aujourd'hui! Régalez-vous de délices culinaires qui raviront vos papilles et vous laisseront en redemander.",
+    "offers_list": {
+      "offer_1": {
+        "title": "Extravagance de Fruits de Mer",
+        "description": "Plongez dans un océan de saveurs avec notre pêche du jour. Savourez crevettes, homard et plus – le meilleur de l'océan dans votre assiette.",
+        "button": "Voir Offre"
+      },
+      "offer_2": {
+        "title": "Plat Signature du Chef",
+        "description": "Découvrez le chef-d'œuvre du chef : un plat préparé avec passion et expertise. Savourez les meilleurs ingrédients et techniques innovantes dans chaque bouchée.",
+        "button": "Voir Offre"
+      },
+      "offer_3": {
+        "title": "Tentations Sucrées",
+        "description": "Régalez votre dent sucrée avec nos desserts irrésistibles. Des créations chocolatées aux pâtisseries, satisfaites vos envies avec nos délicieuses friandises.",
+        "button": "Voir Offre"
+      }
+    }
+  }
+}

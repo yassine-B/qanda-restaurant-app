@@ -1,0 +1,46 @@
+{
+  "restaurant_items": {
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "coffee": "Coffee"
+  },
+  "restaurant_opening": {
+    "title": "We're Open To Serve You",
+    "description": "Join us for breakfast, lunch, or dinner and experience the finest dining in town. Our doors are always open to welcome you with warmth and exceptional service.",
+    "opening_hours": {
+      "part_1": {
+        "days": "Monday To Friday",
+        "time": {
+          "from": "10:00 AM ",
+          "to": "11:00 PM"
+        }
+      },
+      "part_2": {
+        "days": "Saturday",
+        "time": {
+          "from": "9:00 AM ",
+          "to": "11:00 PM"
+        }
+      },
+      "part_3": {
+        "days": "Sunday",
+        "time": {
+          "from": "9:00 AM ",
+          "to": "9:00 PM"
+        }
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Stay Updated With Qanda",
+    "description": "Subscribe to our newsletter and be the first to know about our latest promotions, special events, and exclusive offers. Join our community of food enthusiasts and never miss out on the excitement at Qanda.",
+    "button": "Subscribe",
+    "placeholder": "Email Address",
+    "error_message": "Please enter a valid email address."
+  },
+
+  "footer": {
+    "footer_copyright": "Copyright all right reserved by BTW"
+  }
+}

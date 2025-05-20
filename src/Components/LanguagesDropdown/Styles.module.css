@@ -1,0 +1,21 @@
+.languages_container {
+  position: relative;
+  height: 25px;
+}
+.languages_button {
+  cursor: pointer;
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+.languages_list {
+  position: absolute;
+  top: 25px;
+  left: -4px;
+  background: white;
+}
+.languages_list_item {
+  display: block;
+  cursor: pointer;
+  padding: 2px 4px;
+}

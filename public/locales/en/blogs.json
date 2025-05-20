@@ -1,0 +1,23 @@
+{
+  "blogs": {
+    "title": "Explore Our Culinary Adventures",
+    "description": "Dive into our blog to discover the latest culinary trends, chef's recipes, and behind-the-scenes stories from our kitchen. Get inspired and stay connected with the world of food at Qanda.",
+    "blogs_list": {
+      "blog_1": {
+        "title": "The Art Of Pasta Making",
+        "description": "Learn the secrets to crafting perfect pasta from scratch with tips from our expert chefs. From choosing the right flour to mastering different pasta shapes, elevate your pasta game with our step-by-step guide.",
+        "button": "Read More"
+      },
+      "blog_2": {
+        "title": "A Chef's Journey",
+        "description": "Follow our chef's journey as they source the freshest local ingredients and transform them into mouthwatering dishes. Discover the importance of sustainable farming practices and how they influence the flavors on your plate.",
+        "button": "Read More"
+      },
+      "blog_3": {
+        "title": "Sweet Creations",
+        "description": "Indulge your sweet tooth with our dessert masterclass, where we reveal the recipes behind our most popular sweet treats. From classic cakes to innovative desserts, learn how to create delectable delights that will impress your guests.",
+        "button": "Read More"
+      }
+    }
+  }
+}

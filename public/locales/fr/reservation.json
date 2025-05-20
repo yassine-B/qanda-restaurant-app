@@ -1,0 +1,46 @@
+{
+  "reservation": {
+    "title": "Réservez Votre Table Aujourd'hui",
+    "description": "Assurez-vous une expérience culinaire mémorable en réservant votre table à l'avance. Que ce soit pour un dîner romantique à deux ou une réunion entre amis et en famille, nous nous assurerons que tout soit préparé juste pour vous.",
+    "modal_title": "fr  Make Your Reservation",
+    "modal_submit_button": "fr  book a table",
+    "modal_cancel_button": "fr  cancel",
+    "form_submit_button": "Réserver Votre Table",
+    "modal_time": {
+      "from": "de",
+      "to": "à"
+    },
+    "text_separator": "ou",
+    "form_cancel_button": "Appeler pour Commander",
+    "form": {
+      "fullname": {
+        "placeholder": "Nom Complet",
+        "error_message": "Veuillez entrer votre nom complet."
+      },
+      "email": {
+        "placeholder": "Email",
+        "error_message": "Veuillez entrer une adresse email valide."
+      },
+      "phone": {
+        "placeholder": "Téléphone",
+        "error_message": "Veuillez entrer un numéro de téléphone valide."
+      },
+      "number_of_persons": {
+        "placeholder": "Nombre de Personnes",
+        "error_message": "Veuillez entrer le nombre de personnes."
+      },
+      "date": {
+        "placeholder": "Date",
+        "error_message": " Veuillez entrer une date valide."
+      },
+      "from": {
+        "placeholder": "De",
+        "error_message": "Veuillez sélectionner une heure de début."
+      },
+      "to": {
+        "placeholder": "À",
+        "error_message": "Veuillez sélectionner une heure de fin."
+      }
+    }
+  }
+}

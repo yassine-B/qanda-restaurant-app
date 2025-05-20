@@ -1,0 +1,23 @@
+{
+  "offers": {
+    "title": "Today's Special Offer",
+    "description": "Treat yourself to something extraordinary with our exclusive specials, available only for today! Indulge in culinary delights that will tantalize your taste buds and leave you craving for more.",
+    "offers_list": {
+      "offer_1": {
+        "title": "Seafood Extravaganza",
+        "description": "Dive into a sea of flavors with our fresh catch of the day. Enjoy shrimp, lobster, and more – the best of the ocean on your plate.",
+        "button": "View Offer"
+      },
+      "offer_2": {
+        "title": "Chef's Signature Dish",
+        "description": "Discover the chef's masterpiece: a dish crafted with passion and expertise. Savor the finest ingredients and innovative techniques in every exquisite bite.",
+        "button": "View Offer"
+      },
+      "offer_3": {
+        "title": "Sweet Temptations",
+        "description": "Indulge your sweet tooth with our irresistible desserts. From chocolate creations to pastries, satisfy your cravings with our delectable treats.",
+        "button": "View Offer"
+      }
+    }
+  }
+}

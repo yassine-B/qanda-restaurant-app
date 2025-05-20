@@ -1,0 +1,46 @@
+{
+  "reservation": {
+    "title": "Reserve Your Table Today",
+    "description": "Ensure a memorable dining experience by reserving your table in advance. Whether it's a romantic dinner for two or a gathering with friends and family, we'll make sure everything is prepared just for you.",
+    "modal_title": " Make Your Reservation",
+    "modal_submit_button": " book a table",
+    "modal_cancel_button": " cancel",
+    "modal_time": {
+      "from": "from",
+      "to": "to"
+    },
+    "form_submit_button": "Book Your Table",
+    "text_separator": "or",
+    "form_cancel_button": "Call for Order",
+    "form": {
+      "fullname": {
+        "placeholder": "Full Name",
+        "error_message": "Please enter your full name."
+      },
+      "email": {
+        "placeholder": "Email",
+        "error_message": "Please enter a valid email address."
+      },
+      "phone": {
+        "placeholder": "Phone",
+        "error_message": "Please enter a valid phone number."
+      },
+      "number_of_persons": {
+        "placeholder": "Number of Persons",
+        "error_message": "Please enter the number of persons."
+      },
+      "date": {
+        "placeholder": "Date",
+        "error_message": "Please enter a valid date."
+      },
+      "from": {
+        "placeholder": "From",
+        "error_message": "Please select a start time."
+      },
+      "to": {
+        "placeholder": "To",
+        "error_message": "Please select an end time."
+      }
+    }
+  }
+}

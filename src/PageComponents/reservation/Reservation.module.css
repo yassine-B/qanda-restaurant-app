@@ -1,0 +1,114 @@
+.reservation_form {
+  width: 65%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.reservation_form_fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+}
+.reservation_input_group {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.reservation_input {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  color: var(--text-color);
+  border-bottom: 2px solid var(--secondary-color);
+  padding: 10px;
+}
+.reservation_error_message {
+  margin-top: 5px;
+  color: var(--error-color);
+}
+.reservation_time_input_group {
+  display: flex;
+  gap: 40px;
+}
+.reservation_button_group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reservation_button_separator {
+  margin: 0 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--text-color);
+}
+.reservation_alert {
+  width: 65%;
+  margin: auto;
+  text-align: center;
+}
+
+.reservation_modal_title {
+  margin: 0px;
+}
+.reservation_modal_body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+.reservation_modal_footer {
+  display: flex;
+  width: 45%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+@media only screen and (min-width: 880px) and (max-width: 991px) {
+  .reservation_form {
+    width: 75%;
+  }
+}
+@media only screen and (min-width: 700px) and (max-width: 880px) {
+  .reservation_form {
+    width: 85%;
+  }
+}
+@media only screen and (min-width: 550px) and (max-width: 700px) {
+  .reservation_form {
+    width: 65%;
+  }
+  .reservation_form_fields {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 630px) {
+  .reservation_button_group {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+@media only screen and (min-width: 450px) and (max-width: 550px) {
+  .reservation_form {
+    width: 75%;
+  }
+  .reservation_form_fields {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 450px) {
+  .reservation_form {
+    width: 85%;
+  }
+  .reservation_form_fields {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+  }
+}

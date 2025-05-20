@@ -1,0 +1,29 @@
+.text {
+  font-weight: normal;
+  line-height: 1.38;
+}
+
+.text_small {
+  --text-small: 1.02rem;
+  font-size: var(--text-small);
+}
+.text_medium {
+  --text-medium: 1.12rem;
+  font-size: var(--text-medium);
+}
+.text_large {
+  --text-large: 1.18rem;
+  font-size: var(--text-large);
+}
+
+@media screen and (max-width: 700px) {
+  .text_small {
+    --text-small: 1rem;
+  }
+  .text_medium {
+    --text-medium: 1.1rem;
+  }
+  .text_large {
+    --text-large: 1.15rem;
+  }
+}

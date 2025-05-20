@@ -1,0 +1,35 @@
+.restaurant_items_bg {
+  height: 300px;
+  background-color: #0000008f;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.restaurant_items {
+  text-align: center;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  width: 150px;
+}
+.restaurant_items_number {
+  font-size: 30px;
+  color: var(--accent-color);
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 690px) {
+  .restaurant_items_bg {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .restaurant_items_bg {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 10px;
+  }
+}

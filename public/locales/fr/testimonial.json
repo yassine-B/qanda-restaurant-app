@@ -1,0 +1,34 @@
+{
+  "testimonial_title": "Avis des clients",
+  "testimonial_description": "Découvrez ce que nos clients disent à propos de leur expérience chez nous.",
+  "testimonial_list": {
+    "testimonial_1": {
+      "username": "Jean Dupont",
+      "comment": "La cuisine était délicieuse et le service impeccable. Nous reviendrons certainement !"
+    },
+    "testimonial_2": {
+      "username": "Marie Lefevre",
+      "comment": "Ambiance chaleureuse et plats savoureux. Un vrai plaisir à chaque visite."
+    },
+    "testimonial_3": {
+      "username": "Pierre Dubois",
+      "comment": "Excellent rapport qualité-prix. Je recommande vivement ce restaurant."
+    },
+    "testimonial_4": {
+      "username": "Sophie Martin",
+      "comment": "Service attentionné et plats parfaitement préparés. Une expérience culinaire exceptionnelle."
+    },
+    "testimonial_5": {
+      "username": "Lucie Moreau",
+      "comment": "Les portions sont généreuses et la présentation des plats est très soignée. Une adresse à retenir."
+    },
+    "testimonial_6": {
+      "username": "Thomas Robert",
+      "comment": "Cadre agréable et personnel sympathique. Idéal pour une soirée entre amis."
+    },
+    "testimonial_7": {
+      "username": "Émilie Girard",
+      "comment": "J'ai été impressionnée par la diversité des options végétariennes. Un vrai régal pour les végétariens!"
+    }
+  }
+}

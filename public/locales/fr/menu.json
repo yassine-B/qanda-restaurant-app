@@ -1,0 +1,44 @@
+{
+  "menu": {
+    "title": "Découvrez le Menu",
+    "description": "Découvrez notre menu diversifié, des entrées aux desserts, avec des descriptions alléchantes et des photos appétissantes.",
+    "menu_items": {
+      "menu_1": {
+        "title": "Pizza Gourmet",
+        "description": "Une croûte fine croustillante garnie de mozzarella fraîche, tomates cerises, feuilles de basilic et un filet de glaçage balsamique. Une harmonie parfaite de saveurs."
+      },
+      "menu_2": {
+        "title": "Plateau de Sushi",
+        "description": "Rouleaux de sushi vibrants et colorés avec poisson frais, avocat, concombre et tobiko. Une expérience délicieuse pour les amateurs de sushi."
+      },
+      "menu_3": {
+        "title": "Côtes Braisées",
+        "description": "Côtes tendres braisées dans une sauce au vin rouge, servies avec purée de pommes de terre crémeuse et carottes rôties. Confort à son meilleur."
+      },
+      "menu_4": {
+        "title": "Gâteau au Chocolat",
+        "description": "Gâteau au chocolat décadent avec chocolat fondu chaud, servi avec glace à la vanille et baies fraîches. Pure gourmandise."
+      },
+      "menu_5": {
+        "title": "Salade Mango Tango",
+        "description": "Salade rafraîchissante avec mangue mûre, légumes croquants, poulet grillé et vinaigrette à la mangue. Une explosion de saveurs."
+      },
+      "menu_6": {
+        "title": "Calamars Croquants",
+        "description": "Anneaux de calamars légèrement panés et frits, servis avec sauce marinara et quartiers de citron. Parfaitement croquants et délicieux."
+      },
+      "menu_7": {
+        "title": "Steak de Saumon",
+        "description": "Steak de saumon grillé à la perfection, assaisonné et servi avec purée à l'ail et légumes sautés. Un délice savoureux."
+      },
+      "menu_8": {
+        "title": "Risotto aux Truffes",
+        "description": "Risotto crémeux infusé à la truffe, garni de parmesan et herbes fraîches. Une expérience culinaire luxueuse."
+      },
+      "menu_9": {
+        "title": "Steak de Côte de Bœuf",
+        "description": "Steak de côte de bœuf juteux, grillé à la perfection, avec pommes de terre rôties, asperges et sauce au vin rouge. Perfection."
+      }
+    }
+  }
+}

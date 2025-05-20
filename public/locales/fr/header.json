@@ -1,0 +1,14 @@
+{
+  "header": {
+    "home": "ACCUEIL",
+    "about": "À PROPOS",
+    "special": "SPÉCIAL",
+    "menu": "MENU",
+    "gallery": "GALERIE",
+    "opening": "OUVERTURE",
+    "reservation": "RÉSERVATION",
+    "feedback": "AVIS",
+    "blogs": "BLOGS",
+    "contact": "CONTACT"
+  }
+}

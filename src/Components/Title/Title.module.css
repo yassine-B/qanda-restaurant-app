@@ -1,0 +1,26 @@
+.title {
+  text-transform: capitalize;
+  margin-bottom: 15px;
+}
+.title_small {
+  --title-small: 1.2rem;
+  font-size: var(--title-small);
+}
+.title_medium {
+  --title-medium: 1.8rem;
+  font-size: var(--title-medium);
+}
+.title_large {
+  --title-large: 2.5rem;
+  font-size: var(--title-large);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 800px) {
+  .title_large {
+    --title-large: 2rem;
+  }
+  .title_medium {
+    --title-medium: 1.5rem;
+  }
+}

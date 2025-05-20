@@ -1,0 +1,27 @@
+{
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Vous avez une question ou souhaitez faire une réservation ? N'hésitez pas à nous contacter. Notre équipe est là pour vous aider avec toutes vos demandes.",
+    "information_title": "Informations sur la Réservation",
+    "form_title": "Laissez un Message",
+    "form_button": "envoyer un message",
+    "feedback_form": {
+      "fullname": {
+        "placeholder": "Nom Complet",
+        "error_message": "Veuillez entrer votre nom complet."
+      },
+      "email": {
+        "placeholder": "Email",
+        "error_message": "Veuillez entrer une adresse email valide."
+      },
+      "phone": {
+        "placeholder": "Téléphone",
+        "error_message": "Veuillez entrer un numéro de téléphone valide."
+      },
+      "message": {
+        "placeholder": "Partagez vos pensées...",
+        "error_message": "Veuillez entrer votre message."
+      }
+    }
+  }
+}

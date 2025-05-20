@@ -1,0 +1,45 @@
+{
+  "restaurant_items": {
+    "breakfast": "Petit Déjeuner",
+    "lunch": "Déjeuner",
+    "dinner": "Dîner",
+    "coffee": "Café"
+  },
+  "restaurant_opening": {
+    "title": "Nous Sommes Ouverts Pour Vous Servir",
+    "description": "Rejoignez-nous pour le petit-déjeuner, le déjeuner ou le dîner et découvrez la meilleure cuisine de la ville. Nos portes sont toujours ouvertes pour vous accueillir avec chaleur et un service exceptionnel.",
+    "opening_hours": {
+      "part_1": {
+        "days": "Lundi à vendredi",
+        "time": {
+          "from": "10h00",
+          "to": "23h00"
+        }
+      },
+      "part_2": {
+        "days": "Samedi",
+        "time": {
+          "from": "9h00",
+          "to": "23h00"
+        }
+      },
+      "part_3": {
+        "days": "Dimanche",
+        "time": {
+          "from": "9h00",
+          "to": "21h00"
+        }
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Restez Informé Avec Qanda",
+    "description": "Abonnez-vous à notre newsletter et soyez les premiers à connaître nos dernières promotions, événements spéciaux et offres exclusives. Rejoignez notre communauté de passionnés de gastronomie et ne manquez jamais l'excitation chez Qanda.",
+    "button": "S'Abonner",
+    "placeholder": "Adresse Email",
+    "error_message": "Veuillez entrer une adresse email valide."
+  },
+  "footer": {
+    "footer_copyright": "Droits d'auteur tous droits réservés par BTW"
+  }
+}
